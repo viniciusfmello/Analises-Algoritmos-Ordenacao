@@ -1,0 +1,39 @@
+O objetivo desse programa é comparar o desempenho dos algoritmos de ordenação considerados de primeira categoria. (Seleção, Bolha e Inserção). 
+
+São utilizados 4 vetores de classes, sendo eles de tamanhos: 
+[500], [1.000], [5.000] e [15.000].
+
+Cada posição do vetor é um objeto de uma classe "Estudante" contendo os seguintes dados:
+- Matrícula
+- Nome
+- Curso
+- Coeficiente de Rendimento
+- Período Atual
+
+Os atributos do objeto são gerados automaticamente através de um gerador de números para a matrícula, coeficiente e período. Já o nome e o curso são gerados através de um gerador de strings. 
+A ordenação é realizada com base no número de matrícula.
+
+São realizados os seguintes testes:
+
+- Teste com o vetor aleatório.
+- Teste com o vetor já ordenado.
+- Teste com o vetor inversamente ordenado.
+
+Todos esses testes são realizados 10 vezes em cada um dos três algoritmos, dos 4 tamanhos de vetores e em cada um dos 3 tipos (Aleatório, Ordenado e Inversamente Ordenado), afim de trazer uma média da análise. No final, todo registro é gravado em um arquivo de texto e armazena os seguintes dados:
+
+- Número médio de comparações entre chaves de cada algoritmo (e de cada tamanho + cada tipo).
+- Número médio de trocas de registros de cada algoritmo (e de cada tamanho + cada tipo).
+- Tempo médio de execução de cada algoritmo (e de cada tamanho + cada tipo).
+- Tempo de execução de todo programa
+
+Ao final, o programa exibe no console um menu intuitivo que dá a opção de imprimir algum vetor específico ou encerrar o programa. Caso desejar imprimir, basta informar qual vetor deseja imprir e será impresso os dados de cada posição do vetor. (O objeto da classe contendo os dados do estudante).
+
+Você pode conferir o teste final executado acessando o arquivo "Registros.txt" e verificar cada média de execução.
+
+Instruções para realização do teste em sua máquina:
+
+- Tenha tempo reservado. Devido ao grande número de testes e ao grande tamanho dos vetores, a execução do programa pode levar muitas horas e consumir bastante sua máquina.
+- Não recomendamos a impressão de algum vetor específico caso sua máquina não tenha muita mémoria disponível e não tenha um bom processador, pois tal impressão pode crashar sua IDE.
+- O novo registro será gravado no final desse mesmo arquivo "Registros.txt" já existente.
+
+Como resultado final, podem-se observar que o algoritmo Quick se saiu melhor em todos testes realizados. Com isso, pode ser dizer que entre todos algoritmos de primeira e segunda categoria, ele é o melhor. Possui um tempo de execução extremamente rápido.

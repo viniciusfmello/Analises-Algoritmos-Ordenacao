@@ -1,0 +1,265 @@
+﻿
+ALGORITMO SHELL SORT
+
+
+Médias de 10 execuções tamanho [1000] ALEATÓRIO :
+Média número de comparação de chaves: 2457
+Média número de movimentações: 4429,7
+Média tempo médio: 0 Milessegundo
+
+Médias de 10 execuções tamanho [1000] ORDENADO :
+Média número de comparação de chaves: 2457
+Média número de movimentações: 2457
+Média tempo médio: 0 Milessegundo
+
+Médias de 10 execuções tamanho [1000] ORDENADO AO CONTRÁRIO :
+Média número de comparação de chaves: 2457
+Média número de movimentações: 4261
+Média tempo médio: 0 Milessegundo
+
+
+*****************************************************
+
+
+ALGORITMO SHELL SORT
+
+
+Médias de 10 execuções tamanho [1.000] ALEATÓRIO :
+Média número de comparação de chaves: 5457
+Média número de movimentações: 9853,7
+Média tempo médio: 0 Milessegundo
+
+Médias de 10 execuções tamanho [1.000] ORDENADO :
+Média número de comparação de chaves: 5457
+Média número de movimentações: 5457
+Média tempo médio: 0 Milessegundo
+
+Médias de 10 execuções tamanho [1.000] ORDENADO AO CONTRÁRIO :
+Média número de comparação de chaves: 5457
+Média número de movimentações: 9375
+Média tempo médio: 0 Milessegundo
+
+
+*****************************************************
+
+
+ALGORITMO SHELL SORT
+
+
+Médias de 10 execuções tamanho [5.000] ALEATÓRIO :
+Média número de comparação de chaves: 35084
+Média número de movimentações: 58843,1
+Média tempo médio: 2,2 Milessegundo
+
+Médias de 10 execuções tamanho [5.000] ORDENADO :
+Média número de comparação de chaves: 35084
+Média número de movimentações: 35084
+Média tempo médio: 1 Milessegundo
+
+Médias de 10 execuções tamanho [5.000] ORDENADO AO CONTRÁRIO :
+Média número de comparação de chaves: 35084
+Média número de movimentações: 54223
+Média tempo médio: 1 Milessegundo
+
+
+*****************************************************
+
+
+ALGORITMO SHELL SORT
+
+
+Médias de 10 execuções tamanho [15.000] ALEATÓRIO :
+Média número de comparação de chaves: 120243
+Média número de movimentações: 208840,5
+Média tempo médio: 10,1 Milessegundo
+
+Médias de 10 execuções tamanho [15.000] ORDENADO :
+Média número de comparação de chaves: 120243
+Média número de movimentações: 120243
+Média tempo médio: 6,7 Milessegundo
+
+Médias de 10 execuções tamanho [15.000] ORDENADO AO CONTRÁRIO :
+Média número de comparação de chaves: 120243
+Média número de movimentações: 187660
+Média tempo médio: 8,5 Milessegundo
+
+
+*****************************************************
+
+
+ALGORITMO MERGE SORT
+
+
+Médias de 10 execuções tamanho [1000] ALEATÓRIO :
+Média número de comparação de chaves: 7932
+Média número de movimentações: 9976
+Média tempo médio: 0 Milessegundo
+
+Médias de 10 execuções tamanho [1000] ORDENADO :
+Média número de comparação de chaves: 8041
+Média número de movimentações: 9976
+Média tempo médio: 0 Milessegundo
+
+Médias de 10 execuções tamanho [1000] ORDENADO AO CONTRÁRIO :
+Média número de comparação de chaves: 7932
+Média número de movimentações: 9976
+Média tempo médio: 0 Milessegundo
+
+
+*****************************************************
+
+
+ALGORITMO MERGE SORT
+
+
+Médias de 10 execuções tamanho [1.000] ALEATÓRIO :
+Média número de comparação de chaves: 7932
+Média número de movimentações: 9976
+Média tempo médio: 0 Milessegundo
+
+Médias de 10 execuções tamanho [1.000] ORDENADO :
+Média número de comparação de chaves: 8041
+Média número de movimentações: 9976
+Média tempo médio: 0 Milessegundo
+
+Médias de 10 execuções tamanho [1.000] ORDENADO AO CONTRÁRIO :
+Média número de comparação de chaves: 7932
+Média número de movimentações: 9976
+Média tempo médio: 0 Milessegundo
+
+
+*****************************************************
+
+
+ALGORITMO MERGE SORT
+
+
+Médias de 10 execuções tamanho [5.000] ALEATÓRIO :
+Média número de comparação de chaves: 44868
+Média número de movimentações: 61808
+Média tempo médio: 2,3 Milessegundo
+
+Médias de 10 execuções tamanho [5.000] ORDENADO :
+Média número de comparação de chaves: 47001
+Média número de movimentações: 61808
+Média tempo médio: 1,4 Milessegundo
+
+Médias de 10 execuções tamanho [5.000] ORDENADO AO CONTRÁRIO :
+Média número de comparação de chaves: 44869
+Média número de movimentações: 61808
+Média tempo médio: 1 Milessegundo
+
+
+*****************************************************
+
+
+ALGORITMO MERGE SORT
+
+
+Médias de 10 execuções tamanho [10.000] ALEATÓRIO :
+Média número de comparação de chaves: 147968
+Média número de movimentações: 208616
+Média tempo médio: 38,8 Milessegundo
+
+Médias de 10 execuções tamanho [10.000] ORDENADO :
+Média número de comparação de chaves: 151361
+Média número de movimentações: 208616
+Média tempo médio: 5,2 Milessegundo
+
+Médias de 10 execuções tamanho [10.000] ORDENADO AO CONTRÁRIO :
+Média número de comparação de chaves: 147943
+Média número de movimentações: 208616
+Média tempo médio: 5,2 Milessegundo
+
+
+*****************************************************
+
+
+ALGORITMO QUICK SORT
+
+
+Médias de 10 execuções tamanho [1000] ALEATÓRIO :
+Média número de comparação de chaves: 2022
+Média número de movimentações: 504
+Média tempo médio: 0 Milessegundo
+
+Médias de 10 execuções tamanho [1000] ORDENADO :
+Média número de comparação de chaves: 1275
+Média número de movimentações: 255
+Média tempo médio: 0 Milessegundo
+
+Médias de 10 execuções tamanho [1000] ORDENADO AO CONTRÁRIO :
+Média número de comparação de chaves: 2022
+Média número de movimentações: 504
+Média tempo médio: 0 Milessegundo
+
+
+*****************************************************
+
+
+ALGORITMO QUICK SORT
+
+
+Médias de 10 execuções tamanho [1.000] ALEATÓRIO :
+Média número de comparação de chaves: 4062
+Média número de movimentações: 1012
+Média tempo médio: 0 Milessegundo
+
+Médias de 10 execuções tamanho [1.000] ORDENADO :
+Média número de comparação de chaves: 2565
+Média número de movimentações: 513
+Média tempo médio: 0 Milessegundo
+
+Médias de 10 execuções tamanho [1.000] ORDENADO AO CONTRÁRIO :
+Média número de comparação de chaves: 4067
+Média número de movimentações: 1013
+Média tempo médio: 0 Milessegundo
+
+
+*****************************************************
+
+
+ALGORITMO QUICK SORT
+
+
+Médias de 10 execuções tamanho [5.000] ALEATÓRIO :
+Média número de comparação de chaves: 22584
+Média número de movimentações: 5518
+Média tempo médio: 0 Milessegundo
+
+Médias de 10 execuções tamanho [5.000] ORDENADO :
+Média número de comparação de chaves: 15092
+Média número de movimentações: 3020
+Média tempo médio: 0 Milessegundo
+
+Médias de 10 execuções tamanho [5.000] ORDENADO AO CONTRÁRIO :
+Média número de comparação de chaves: 22634
+Média número de movimentações: 5528
+Média tempo médio: 0 Milessegundo
+
+
+*****************************************************
+
+
+ALGORITMO QUICK SORT
+
+
+Médias de 10 execuções tamanho [15.000] ALEATÓRIO :
+Média número de comparação de chaves: 67284
+Média número de movimentações: 16486
+Média tempo médio: 0,8 Milessegundo
+
+Médias de 10 execuções tamanho [15.000] ORDENADO :
+Média número de comparação de chaves: 44787
+Média número de movimentações: 8987
+Média tempo médio: 1,2 Milessegundo
+
+Médias de 10 execuções tamanho [15.000] ORDENADO AO CONTRÁRIO :
+Média número de comparação de chaves: 67094
+Média número de movimentações: 16448
+Média tempo médio: 2 Milessegundo
+
+
+*****************************************************
+
+TEMPO DE EXEUÇÃO DO PROGRAMA: 00 Hora, 00 Minutos, 28 Segundos.

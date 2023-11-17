@@ -1,0 +1,30 @@
+O objetivo desse programa é comparar o desempenho dos algoritmos de ordenação considerados de segunda categoria. (ShellSort, MergeSort e QuickSort)
+
+São utilizados 4 vetores de números inteiros, sendo eles de tamanhos: 
+[1.000], [10.000], [100.000] e [200.000].
+
+Cada posição do vetor é preenchida através de um gerador de números inteiros automático.
+São realizados os seguintes testes:
+
+- Teste com o vetor aleatório (números gerados automáticamente).
+- Teste com o vetor já ordenado.
+- Teste com o vetor inversamente ordenado.
+
+Todos esses testes são realizados 10 vezes em cada um dos três algoritmos, dos 4 tamanhos de vetores e em cada um dos 3 tipos (Aleatório, Ordenado e Inversamente Ordenado), afim de trazer uma média da análise. No final, todo registro é gravado em um arquivo de texto e armazena os seguintes dados:
+
+- Número médio de comparações entre chaves de cada algoritmo (e de cada tamanho + cada tipo).
+- Número médio de trocas de registros de cada algoritmo (e de cada tamanho + cada tipo).
+- Tempo médio de execução de cada algoritmo (e de cada tamanho + cada tipo).
+- Tempo de execução de todo programa
+
+Ao final, o programa exibe no console os registros já gravados no arquivo de texto e o vetor antes e depois que o usuário escolheu.
+
+Você pode conferir o teste final executado acessando o arquivo "Registros.txt" e verificar cada média de execução.
+
+Instruções para realização do teste em sua máquina:
+
+- Tenha tempo reservado. Devido ao grande número de testes e ao grande tamanho dos vetores, a execução do programa pode levar muitas horas e consumir bastante sua máquina.
+- Não recomendamos a impressão dos vetores antes x depois caso sua máquina não tenha muita mémoria disponível e não tenha um bom processador, pois tal impressão pode crashar sua IDE.
+- O novo registro será gravado no final desse mesmo arquivo "Registros.txt" já existente.
+
+Como resultado final, podem-se observar que o algoritmo Quick se saiu melhor em todos testes realizados. Com isso, pode ser dizer que entre todos algoritmos de primeira e segunda categoria, ele é o melhor. Possui um tempo de execução extremamente rápido.

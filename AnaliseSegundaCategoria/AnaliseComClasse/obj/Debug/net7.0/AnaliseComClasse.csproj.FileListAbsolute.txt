@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseSegundaCategoria\AnaliseComClasse\obj\Debug\net7.0\AnaliseComClasse.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseSegundaCategoria\AnaliseComClasse\obj\Debug\net7.0\AnaliseComClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseSegundaCategoria\AnaliseComClasse\obj\Debug\net7.0\AnaliseComClasse.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseSegundaCategoria\AnaliseComClasse\obj\Debug\net7.0\AnaliseComClasse.AssemblyInfo.cs
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseSegundaCategoria\AnaliseComClasse\obj\Debug\net7.0\AnaliseComClasse.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseSegundaCategoria\AnaliseComClasse\bin\Debug\net7.0\AnaliseComClasse.exe
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseSegundaCategoria\AnaliseComClasse\bin\Debug\net7.0\AnaliseComClasse.deps.json
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseSegundaCategoria\AnaliseComClasse\bin\Debug\net7.0\AnaliseComClasse.runtimeconfig.json
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseSegundaCategoria\AnaliseComClasse\bin\Debug\net7.0\AnaliseComClasse.dll
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseSegundaCategoria\AnaliseComClasse\bin\Debug\net7.0\AnaliseComClasse.pdb
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseSegundaCategoria\AnaliseComClasse\obj\Debug\net7.0\AnaliseComClasse.dll
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseSegundaCategoria\AnaliseComClasse\obj\Debug\net7.0\refint\AnaliseComClasse.dll
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseSegundaCategoria\AnaliseComClasse\obj\Debug\net7.0\AnaliseComClasse.pdb
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseSegundaCategoria\AnaliseComClasse\obj\Debug\net7.0\AnaliseComClasse.genruntimeconfig.cache
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseSegundaCategoria\AnaliseComClasse\obj\Debug\net7.0\ref\AnaliseComClasse.dll

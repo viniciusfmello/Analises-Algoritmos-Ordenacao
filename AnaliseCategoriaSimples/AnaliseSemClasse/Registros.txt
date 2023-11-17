@@ -1,0 +1,257 @@
+﻿
+ALGORITMO SELEÇÃO
+
+
+Médias de 10 execuções tamanho [1.000] ALEATÓRIO :
+Média número de comparação de chaves: 499500
+Média número de movimentações: 143325,9
+Média tempo médio: 1,3 Milessegundo
+
+Médias de 10 execuções tamanho [1.000] ORDENADO :
+Média número de comparação de chaves: 499500
+Média número de movimentações: 0
+Média tempo médio: 1,1 Milessegundo
+
+Médias de 10 execuções tamanho [1.000] ORDENADO AO CONTRÁRIO :
+Média número de comparação de chaves: 499500
+Média número de movimentações: 158661
+Média tempo médio: 1,2 Milessegundo
+
+
+*****************************************************
+
+
+ALGORITMO SELEÇÃO
+
+
+Médias de 10 execuções tamanho [10.000] ALEATÓRIO :
+Média número de comparação de chaves: 49995000
+Média número de movimentações: 2258250,2
+Média tempo médio: 178,5 Milessegundo
+
+Médias de 10 execuções tamanho [10.000] ORDENADO :
+Média número de comparação de chaves: 49995000
+Média número de movimentações: 0
+Média tempo médio: 149,5 Milessegundo
+
+Médias de 10 execuções tamanho [10.000] ORDENADO AO CONTRÁRIO :
+Média número de comparação de chaves: 49995000
+Média número de movimentações: 2502080
+Média tempo médio: 193,9 Milessegundo
+
+
+*****************************************************
+
+
+ALGORITMO SELEÇÃO
+
+
+Médias de 10 execuções tamanho [20.000] ALEATÓRIO :
+Média número de comparação de chaves: 49995000
+Média número de movimentações: 2258250,2
+Média tempo médio: 178,5 Milessegundo
+
+Médias de 10 execuções tamanho [20.000] ORDENADO :
+Média número de comparação de chaves: 49995000
+Média número de movimentações: 0
+Média tempo médio: 149,5 Milessegundo
+
+Médias de 10 execuções tamanho [20.000] ORDENADO AO CONTRÁRIO :
+Média número de comparação de chaves: 49995000
+Média número de movimentações: 2502080
+Média tempo médio: 193,9 Milessegundo
+
+
+*****************************************************
+
+
+ALGORITMO SELEÇÃO
+
+
+Médias de 10 execuções tamanho [50.000] ALEATÓRIO :
+Média número de comparação de chaves: 199990000
+Média número de movimentações: 4512096,5
+Média tempo médio: 678,7 Milessegundo
+
+Médias de 10 execuções tamanho [50.000] ORDENADO :
+Média número de comparação de chaves: 199990000
+Média número de movimentações: 0
+Média tempo médio: 615,9 Milessegundo
+
+Médias de 10 execuções tamanho [50.000] ORDENADO AO CONTRÁRIO :
+Média número de comparação de chaves: 199990000
+Média número de movimentações: 4998569
+Média tempo médio: 671,7 Milessegundo
+
+
+*****************************************************
+
+ALGORITMO BOLHA
+
+
+Médias de 10 execuções tamanho [1.000] ALEATÓRIO :
+Média número de comparação de chaves: 499500
+Média número de movimentações: 449086,5
+Média tempo médio: 2,8 Milessegundo
+
+Médias de 10 execuções tamanho [1.000] ORDENADO :
+Média número de comparação de chaves: 499500
+Média número de movimentações: 0
+Média tempo médio: 1,1 Milessegundo
+
+Médias de 10 execuções tamanho [1.000] ORDENADO AO CONTRÁRIO :
+Média número de comparação de chaves: 499500
+Média número de movimentações: 498985
+Média tempo médio: 3,2 Milessegundo
+
+
+*****************************************************
+
+ALGORITMO BOLHA
+
+
+Médias de 10 execuções tamanho [10.000] ALEATÓRIO :
+Média número de comparação de chaves: 49995000
+Média número de movimentações: 44950797,9
+Média tempo médio: 318,8 Milessegundo
+
+Médias de 10 execuções tamanho [10.000] ORDENADO :
+Média número de comparação de chaves: 49995000
+Média número de movimentações: 0
+Média tempo médio: 160,5 Milessegundo
+
+Médias de 10 execuções tamanho [10.000] ORDENADO AO CONTRÁRIO :
+Média número de comparação de chaves: 49995000
+Média número de movimentações: 49945331
+Média tempo médio: 324,5 Milessegundo
+
+
+*****************************************************
+
+ALGORITMO BOLHA
+
+
+Médias de 10 execuções tamanho [20.000] ALEATÓRIO :
+Média número de comparação de chaves: 49995000
+Média número de movimentações: 44950797,9
+Média tempo médio: 318,8 Milessegundo
+
+Médias de 10 execuções tamanho [20.000] ORDENADO :
+Média número de comparação de chaves: 49995000
+Média número de movimentações: 0
+Média tempo médio: 160,5 Milessegundo
+
+Médias de 10 execuções tamanho [20.000] ORDENADO AO CONTRÁRIO :
+Média número de comparação de chaves: 49995000
+Média número de movimentações: 49945331
+Média tempo médio: 324,5 Milessegundo
+
+
+*****************************************************
+
+ALGORITMO BOLHA
+
+
+Médias de 10 execuções tamanho [50.000] ALEATÓRIO :
+Média número de comparação de chaves: 199990000
+Média número de movimentações: 179811299,7
+Média tempo médio: 342,9 Milessegundo
+
+Médias de 10 execuções tamanho [50.000] ORDENADO :
+Média número de comparação de chaves: 199990000
+Média número de movimentações: 0
+Média tempo médio: 673,2 Milessegundo
+
+Médias de 10 execuções tamanho [50.000] ORDENADO AO CONTRÁRIO :
+Média número de comparação de chaves: 199990000
+Média número de movimentações: 199790333
+Média tempo médio: 355,2 Milessegundo
+
+
+*****************************************************
+
+ALGORITMO INSERÇÃO
+
+
+Médias de 10 execuções tamanho [1.000] ALEATÓRIO :
+Média número de comparação de chaves: 999
+Média número de movimentações: 498985
+Média tempo médio: 1,6 Milessegundo
+
+Médias de 10 execuções tamanho [1.000] ORDENADO :
+Média número de comparação de chaves: 999
+Média número de movimentações: 0
+Média tempo médio: 0 Milessegundo
+
+Médias de 10 execuções tamanho [1.000] ORDENADO AO CONTRÁRIO :
+Média número de comparação de chaves: 999
+Média número de movimentações: 498985
+Média tempo médio: 1,5 Milessegundo
+
+
+*****************************************************
+
+ALGORITMO INSERÇÃO
+
+
+Médias de 10 execuções tamanho [10.000] ALEATÓRIO :
+Média número de comparação de chaves: 9999
+Média número de movimentações: 49945331
+Média tempo médio: 197,4 Milessegundo
+
+Médias de 10 execuções tamanho [10.000] ORDENADO :
+Média número de comparação de chaves: 9999
+Média número de movimentações: 0
+Média tempo médio: 0 Milessegundo
+
+Médias de 10 execuções tamanho [10.000] ORDENADO AO CONTRÁRIO :
+Média número de comparação de chaves: 9999
+Média número de movimentações: 49945331
+Média tempo médio: 199,2 Milessegundo
+
+
+*****************************************************
+
+ALGORITMO INSERÇÃO
+
+
+Médias de 10 execuções tamanho [20.000] ALEATÓRIO :
+Média número de comparação de chaves: 9999
+Média número de movimentações: 49945331
+Média tempo médio: 197,4 Milessegundo
+
+Médias de 10 execuções tamanho [20.000] ORDENADO :
+Média número de comparação de chaves: 9999
+Média número de movimentações: 0
+Média tempo médio: 0 Milessegundo
+
+Médias de 10 execuções tamanho [20.000] ORDENADO AO CONTRÁRIO :
+Média número de comparação de chaves: 9999
+Média número de movimentações: 49945331
+Média tempo médio: 199,2 Milessegundo
+
+
+*****************************************************
+
+ALGORITMO INSERÇÃO
+
+
+Médias de 10 execuções tamanho [50.000] ALEATÓRIO :
+Média número de comparação de chaves: 19999
+Média número de movimentações: 199790333
+Média tempo médio: 710,4 Milessegundo
+
+Médias de 10 execuções tamanho [50.000] ORDENADO :
+Média número de comparação de chaves: 19999
+Média número de movimentações: 0
+Média tempo médio: 0 Milessegundo
+
+Médias de 10 execuções tamanho [50.000] ORDENADO AO CONTRÁRIO :
+Média número de comparação de chaves: 19999
+Média número de movimentações: 199790333
+Média tempo médio: 775 Milessegundo
+
+
+*****************************************************
+
+TEMPO DE EXEUÇÃO DO PROGRAMA: 00 Hora, 08 Minutos, 513 Segundos.

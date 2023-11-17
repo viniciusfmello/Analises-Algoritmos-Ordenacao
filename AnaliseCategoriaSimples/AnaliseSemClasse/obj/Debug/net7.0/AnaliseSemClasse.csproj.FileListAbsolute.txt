@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseCategoriaSimples\AnaliseSemClasse\bin\Debug\net7.0\AnaliseSemClasse.exe
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseCategoriaSimples\AnaliseSemClasse\bin\Debug\net7.0\AnaliseSemClasse.deps.json
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseCategoriaSimples\AnaliseSemClasse\bin\Debug\net7.0\AnaliseSemClasse.runtimeconfig.json
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseCategoriaSimples\AnaliseSemClasse\bin\Debug\net7.0\AnaliseSemClasse.dll
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseCategoriaSimples\AnaliseSemClasse\bin\Debug\net7.0\AnaliseSemClasse.pdb
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseCategoriaSimples\AnaliseSemClasse\obj\Debug\net7.0\AnaliseSemClasse.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseCategoriaSimples\AnaliseSemClasse\obj\Debug\net7.0\AnaliseSemClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseCategoriaSimples\AnaliseSemClasse\obj\Debug\net7.0\AnaliseSemClasse.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseCategoriaSimples\AnaliseSemClasse\obj\Debug\net7.0\AnaliseSemClasse.AssemblyInfo.cs
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseCategoriaSimples\AnaliseSemClasse\obj\Debug\net7.0\AnaliseSemClasse.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseCategoriaSimples\AnaliseSemClasse\obj\Debug\net7.0\AnaliseSemClasse.dll
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseCategoriaSimples\AnaliseSemClasse\obj\Debug\net7.0\refint\AnaliseSemClasse.dll
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseCategoriaSimples\AnaliseSemClasse\obj\Debug\net7.0\AnaliseSemClasse.pdb
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseCategoriaSimples\AnaliseSemClasse\obj\Debug\net7.0\AnaliseSemClasse.genruntimeconfig.cache
+C:\Users\vinic\Desktop\projetos\AnaliseAlgoritmosOrdenacao\AnaliseCategoriaSimples\AnaliseSemClasse\obj\Debug\net7.0\ref\AnaliseSemClasse.dll
