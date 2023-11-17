@@ -1,7 +1,7 @@
 # Analises-Algoritmos-Ordenacao
 O obejtivo desses programas é realizar uma bateria de testes nos principais algoritmos de ordenação existentes. São feitas diversas 
 análises e no final, um arquivo .txt apresenta os seguintes dados: número de comparações, número de trocas e tempo médio de execução.
-Os resultados obtidos são frutos de 10 execuções consecutivas de cada algoritmo, afim de trazer precisão nos resultados.
+Os resultados obtidos são frutos de 10 execuções consecutivas de cada algoritmo, afim de trazer média e precisão nos resultados.
 
 Através dessa análise, é possível notar e comparar a eficiência de cada Algoritmo e em cada caso específico. 
 
