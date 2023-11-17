@@ -11,5 +11,6 @@ Através dessa análise, é possível notar e comparar a eficiência de cada Alg
 - Cada pasta comporta 2 programas, sendo: 1 teste em vetores com números inteiros, e 1 teste em vetores com classes (Classe 'Estudante' com diversos atributos e ordenando por matrícula).
 - Cada programa realiza um total de 120 testes (fruto das 10 execuções), sendo 40 por algoritmo (3 algoritmos por categoria).
 - Os testes são realizados em vetores de 4 tamanhos diferentes e de 3 tipos (Aleatório, Ordenado e Inversamente Ordenado).
+- Os dados de todos vetores (incluindo o de classes), são preenchidos automaticamente.
 
 Para mais detalhes de cada programa e instruções de uso para teste pessoal, acesse o readme contido dentro de cada programa.
